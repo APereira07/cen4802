@@ -1,2 +1,3 @@
 # cen4802
-Repository for COP4802 assignment 1
+Andres Pereira  
+COP4802 – GitHub Assignment Repository
